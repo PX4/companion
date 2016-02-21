@@ -2,6 +2,7 @@ This contains the bringup script for ros on the snapdragon flight and also a sma
 
 # Docs (wifi setup etc.)
 https://github.com/PX4/Devguide/blob/master/book/advanced-snapdragon.md
+http://copter.ardupilot.com/wiki/common-qualcomm-snapdragon-flight-kit/
 
 # Package install
 Run the script: setup.sh
